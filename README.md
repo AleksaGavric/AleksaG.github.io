@@ -1,2 +1,2 @@
-# AleksaG.github.io
- Personal page
+# AleksaGavric.github.io
+ Personal webpage with resume

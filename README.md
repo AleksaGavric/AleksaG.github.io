@@ -1,2 +1,3 @@
-# AleksaGavric.github.io
- Personal webpage with resume
+# Aleksa Gavric personal website
+ Personal webpage with resume attached
+ 

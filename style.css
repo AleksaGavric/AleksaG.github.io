@@ -7,8 +7,9 @@ section {
 }
 
 .navbar {
-    background-color: rgba(255, 255, 255, 0.0) !important;
+    background-color: #f7f8f7 !important;
     border: 0px;
+    
 }
 
 .navbar-brand {
@@ -19,7 +20,7 @@ section {
 
 .navbar-header button {
     color: #ef824c !important;
-    border: 1px solid #ef824c !important;
+    border: 0px solid #ef824c !important;
 }
 
 nav ul {
@@ -42,7 +43,7 @@ nav ul {
 }
 
 .navbar-custom:not(.navbar-inverse) .navbar-nav li a:hover {
-    color: #ececec;
+    color: #ef824c;
 }
 
 .navbar .navbar-nav .active a {
@@ -76,11 +77,14 @@ nav ul {
     position: relative;
     width: 100%;
     height: 100vh;
-
 }
 
+h1:hover {
+  background-color:#ef824c;
+}    
+
 #pic {
-    width:80%;
+    width:72%;
     border-style: solid;
     border-width: 3px;  
     border-color: #ef824c;
@@ -105,7 +109,7 @@ ul {
 
 .main-header h3 {
     font-weight: 300;
-    font-size: 1.05em;
+    font-size: 1.20em;
     letter-spacing: 3px;
     color: #a0a0a0;
 }
@@ -113,7 +117,7 @@ ul {
 .main-header h1 {
     font-weight: bold;
     margin-bottom: 50px;
-    font-size: 4em;
+    font-size: 5.2em;
     font-weight: 700;
     letter-spacing: 15px;
     color: #ececec;
@@ -122,7 +126,6 @@ ul {
 .main-header .quote {
     font-size:1.5em;
     font-weight: 300;
-    line-spacing: 2px;
     color: #a0a0a0;
 }
 
@@ -212,8 +215,8 @@ section header {
     margin-bottom: 25px;
 }
 
+/*ABOUT SECTION*/
 
-/************ ABOUT SECTION ************/
 .text-about {
     font-size: 15px !important;
     text-transform: uppercase;

@@ -20,5 +20,3 @@
     [::::::::::::::      ::::::::::::::]
     [[[[[[[[[[[[[[[------]]]]]]]]]]]]]]]
 
- POPRAV TEKST, SKINI NEBITAN KOD, , DODAJ REZIME
- 

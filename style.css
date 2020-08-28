@@ -13,7 +13,7 @@ section {
 
 .navbar-brand {
     color: #ef824c !important;
-   font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+   font-family: "Kaushan Script","Helvetica Neue", cursive;
    display: inline-flex;
 }
 
@@ -69,8 +69,8 @@ nav ul {
     background-color: #ffa0e0;
     height: 600px;
 }
+
 #welcome {
-    background-image: url(https://neitofcc.github.io/portfolio/img/header-bg.png);
     background-position: center center;
     background-size: cover;
     position: relative;
@@ -78,9 +78,12 @@ nav ul {
     height: 100vh;
 
 }
+
 #pic {
-  height: 75%;
-  width: 55%;
+    width:80%;
+    border-style: solid;
+    border-width: 3px;  
+    border-color: #ef824c;
 }
 
 .shrink {
@@ -280,13 +283,7 @@ ul.about-list li span {
     padding-bottom: 25px;
 }
 
-.separator {
-    margin: 0 auto;
-    background: url(//neitofcc.github.io/portfolio/img/separator.png) no-repeat;
-    height: 9px;
-    width: 576px;
-    padding-bottom: 80px;
-}
+
 
 /******* PORTFOLIO *********/
 .pf-item {

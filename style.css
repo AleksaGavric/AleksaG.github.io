@@ -345,9 +345,8 @@ ul.about-list li span {
 
 .bg-map {
     background-color: #ef824c !important;
-    background-image: url(//neitofcc.github.io/portfolio/img/map-image.png);
-    padding: 10% 10% 0 10%;
-    min-height: 440px;
+    padding: 3% 3% 3% 3%;
+    min-height: 360px;
 }
 
 .bg-map ul li {
@@ -367,30 +366,10 @@ ul.about-list li span {
     top: 0;
 }
 
-.required-fields {
-    font-size: 11px;
-    display: block;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-bottom: 30px;
-}
-
-.submit input {
-    background-color: #000;
-    color: #eee;
-    width: 120px;
-}
-
-.submit input:hover {
-    background-color: #eee !important;
-    color: #000 !important;
-    border-color: #000;
-}
-
 
 .social-links {
     background-color: #111;
-    font-size: 1.35em;
+    font-size: 2em;
 }
 
 .social-links ul {
@@ -424,32 +403,9 @@ ul.about-list li span {
     color: #999;
 }
 
-
 .bg-darkgray {
     background-color: #252525;
 }
-
-.copyright {
-    padding-top: 3% !important;
-    padding-bottom: 3% !important;
-    font-size: 13px;
-    text-transform: uppercase;
-    color: #888888;
-    text-align: center;
-}
-
-.copyright a {
-    background-color: #252525;
-    color: #eee;
-    width: 120px;
-}
-
-.copyright a:hover {
-    background-color: #eee !important;
-    color: #000 !important;
-    border-color: #000;
-}
-
 
 @media (max-width: 690px) {
     .main-header h1 {

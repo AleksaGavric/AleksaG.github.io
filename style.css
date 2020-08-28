@@ -338,6 +338,45 @@ ul.about-list li span {
     .social-links ul li:last-child {
        padding-right: 15px;
     }
+    
+    
+.contente {  
+    font-weight: 600;
+    font-family: "Kaushan Script","Helvetica Neue", cursive;
+    overflow: hidden;
+    height: 40px;
+    padding: 0 40px;
 
+    &:before {
+      content: '[';
+      left: 0;
+    }
+
+    &:after {
+      content: ']';
+      position: relative;
+      right: 0;
+    }
+
+    &:after, &:before {
+      position: relative;
+      top: 0;
+      
+      color: #ef824c;
+      font-size: 42px;
+      line-height: 40px;
+      
+      -webkit-animation-name: opacity;
+      -webkit-animation-duration: 2s;
+      -webkit-animation-iteration-count: infinite;
+      animation-name: opacity;
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
+    }
+}
+@keyframes opacity {
+  0%, 100% {opacity:0;}
+  50% {opacity:1;}
+}
 
 }

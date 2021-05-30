@@ -1,5 +1,5 @@
 # Personal website
 
-You can check it out [here](https://aleksag.codes/)!
+You can check it out [here](https://aleksag.com/)!
 
 
